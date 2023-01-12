@@ -1,0 +1,17 @@
+{
+  "name": "mongoose_nodejs",
+  "version": "1.0.0",
+  "description": "mongoose application with node project",
+  "main": "script.js",
+  "scripts": {
+    "devStart":"nodemon script.js"
+  },
+  "author": "Sanskriti",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
